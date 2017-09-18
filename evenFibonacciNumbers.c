@@ -13,5 +13,5 @@ int main(){
 		secondTerm = nextTerm;
 		nextTerm = firstTerm + secondTerm;
 	}
-	printf("sum of all even fibonacci numbers not exceeding 4 million %d\n",sum);
+	printf("sum of all even fibonacci numbers not exceeding 4 million: %d\n",sum);
 }
